@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -25,9 +25,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 .cd-gallery {
@@ -294,7 +294,7 @@ Main Components
   float: right;
 }
 .cd-item-info .cd-price {
-  color: #a5d05e;
+  color: ##425A1B;
   position: relative;
   margin-left: 10px;
   -webkit-transition: color 0.2s;
@@ -360,9 +360,9 @@ Main Components
   display: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xcredits 
+xcredits
 
 -------------------------------- */
 .credits {
